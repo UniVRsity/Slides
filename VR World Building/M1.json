@@ -12,6 +12,7 @@
     },
     {
         "videoUrl": "https://www.youtube.com/watch?v=cF33cRqsVRo&feature=youtu.be",
+        "rolloffStartDistance": 11111111,
         "volume": 1.0,
         "loop": false
     },
@@ -20,7 +21,8 @@
     },
     {
         "videoUrl": "https://www.youtube.com/watch?v=xZsRGnIJzv4&feature=youtu.be",
-        "volume": 1.0,
+        "rolloffStartDistance": 11111111,
+        "volume": 1,
         "loop": false
     },
     {
@@ -28,8 +30,10 @@
     },
     {
         "videoUrl": "https://www.youtube.com/watch?v=WxV2CpAAoQ4&feature=youtu.be",
-        "volume": 1.0,
-        "loop": false
+        "volume": 0.8,
+        "loop": false,
+        "rolloffStartDistance": 11111111
+
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/UniVRsity/Slides/master/Professional%20Event/Screenshot%20(197).png"
