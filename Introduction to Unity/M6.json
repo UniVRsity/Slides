@@ -1,0 +1,23 @@
+{
+  "loopMediaList": true,
+  "mediaList": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/UniVRsity/Slides/master/Professional%20Event/Screenshot%20(194).png"
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/UniVRsity/Slides/master/VR%20World%20Building/Screenshot%20(211).png"
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/UniVRsity/Slides/master/Professional%20Event/Screenshot%20(197).png"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/watch?v=CcW1MTyoL2A&feature=youtu.be",
+        "rolloffStartDistance": 11111111,
+        "volume": 1.0,
+        "loop": false
+    },
+    {
+        "imageUrl": "https://raw.githubusercontent.com/UniVRsity/Slides/master/Professional%20Event/Screenshot%20(197).png"
+    }
+  ]
+}
